@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera Niño",
+    "desc": "Remera de algodón estampada",
+    "precio": 5000,
+    "imagen": "remera.jpg",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Pantalón Jeans",
+    "desc": "Jean clásico azul",
+    "precio": 8000,
+    "imagen": "jean.jpg",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Campera",
+    "desc": "Campera abrigada",
+    "precio": 12000,
+    "imagen": "campera.jpg",
+    "stock": 7
+  }
+]

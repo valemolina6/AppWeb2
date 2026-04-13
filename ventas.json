@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "id_usuario": 1,
+    "fecha": "2026-04-10",
+    "total": 13000,
+    "direccion": "Córdoba Capital",
+    "entregado": true,
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Remera Niño",
+        "precio": 5000,
+        "cantidad": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Pantalón Jeans",
+        "precio": 8000,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "id_usuario": 2,
+    "fecha": "2026-04-11",
+    "total": 12000,
+    "direccion": "Villa Carlos Paz",
+    "entregado": false,
+    "productos": [
+      {
+        "id": 3,
+        "nombre": "Campera",
+        "precio": 12000,
+        "cantidad": 1
+      }
+    ]
+  }
+]
