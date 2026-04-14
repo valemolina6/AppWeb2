@@ -22,5 +22,21 @@
     "email": "mariag3@gmail.com",
     "contraseña": "1234",
     "activo": false
+  },
+  {
+    "id": 4,
+    "nombre": "Agustin",
+    "apellido": "Negro",
+    "email": "agusn4@gmail.com",
+    "contraseña": "abcd",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Norma",
+    "apellido": "Carranza",
+    "email": "normac5@gmail.com",
+    "contraseña": "1234",
+    "activo": true
   }
 ]

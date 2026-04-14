@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "nombre": "Remera Niño",
+    "nombre": "Remera",
     "desc": "Remera de algodón estampada",
-    "precio": 5000,
+    "precio": 9500,
     "imagen": "remera.jpg",
     "stock": 12
   },
   {
     "id": 2,
-    "nombre": "Pantalón Jeans",
+    "nombre": "Jean",
     "desc": "Jean clásico azul",
-    "precio": 8000,
+    "precio": 27800,
     "imagen": "jean.jpg",
     "stock": 8
   },
@@ -19,8 +19,26 @@
     "id": 3,
     "nombre": "Campera",
     "desc": "Campera abrigada",
-    "precio": 12000,
+    "precio": 32000,
     "imagen": "campera.jpg",
-    "stock": 7
+    "stock": 6
+  }
+  ,
+  {
+    "id": 4,
+    "nombre": "Top",
+    "desc": "Top deportivo",
+    "precio": 12000,
+    "imagen": "top.jpg",
+    "stock": 3
+  }
+  ,
+  {
+    "id": 5,
+    "nombre": "Collar",
+    "desc": "Collar de acero dorado",
+    "precio": 16400,
+    "imagen": "collar.jpg",
+    "stock": 5
   }
 ]
