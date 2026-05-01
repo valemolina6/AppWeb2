@@ -16,14 +16,17 @@ localhost:5555
 
 # USUARIOS
 
-GET localhost:5555/users  
+GET /users  
 Devuelve todos los usuarios
+Ejemplo: localhost:5555/users  
 
-GET localhost:5555/users/:id
-Devuelve los datos del usuario con el id 1
+GET /users/:id
+Devuelve los datos del usuario por id
+Ejemplo: localhost:5555/users/1
 
-POST localhost:5555/users  
+POST /users   
 Crea un usuario
+Ejemplo: localhost:5555/users 
 
 Ejemplo body:
 {
@@ -38,10 +41,11 @@ Ejemplo body:
 
 # PRODUCTOS
 
-GET localhost:5555/products  
+GET /products  
 Devuelve todos los productos
+Ejemplo: localhost:5555/products 
 
-PUT localhost:5555/products/:id  
+PUT /products/:id  
 Actualiza un producto
 
 Ejemplo:
@@ -56,12 +60,17 @@ Body:
 
 # VENTAS
 
-POST localhost:5555/sales  
+POST /sales  
 Crea una venta
+Ejemplo: localhost:5555/sales
 
+Body:
+{
+  "id": 3,
+  "precio": 10500
+}
 
-
-DELETE localhost:5555/sales/:id  
+DELETE /sales/:id  
 Elimina una venta
 
 Ejemplo:
