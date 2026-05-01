@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera",
+    "desc": "Remera de algodón estampada",
+    "precio": 9999,
+    "imagen": "remera.jpg",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Jean",
+    "desc": "Jean clásico azul",
+    "precio": 27800,
+    "imagen": "jean.jpg",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Campera",
+    "desc": "Campera abrigada",
+    "precio": 32000,
+    "imagen": "campera.jpg",
+    "stock": 6
+  },
+  {
+    "id": 4,
+    "nombre": "Top",
+    "desc": "Top deportivo",
+    "precio": 12000,
+    "imagen": "top.jpg",
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "nombre": "Collar",
+    "desc": "Collar de acero dorado",
+    "precio": 16400,
+    "imagen": "collar.jpg",
+    "stock": 5
+  }
+]
