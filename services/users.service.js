@@ -7,6 +7,11 @@ export const getUsers = async () => {
   return JSON.parse(data)
 }
 
+export const getUserById = async (id) => {
+  const users = await getUsers()
+  return users.find(user => user.id == id)
+}
+
 export const createUser = async (user) => {
   const users = await getUsers()
   const newUser = { id: users.length + 1, ...user }
